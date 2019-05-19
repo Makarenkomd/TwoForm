@@ -1,0 +1,12 @@
+E:\NOSU\Лекции\ППО\paramsAND2forms\paramsAND2forms\bin\Debug\paramsAND2forms.exe.config
+E:\NOSU\Лекции\ППО\paramsAND2forms\paramsAND2forms\bin\Debug\paramsAND2forms.exe
+E:\NOSU\Лекции\ППО\paramsAND2forms\paramsAND2forms\bin\Debug\paramsAND2forms.pdb
+E:\NOSU\Лекции\ППО\paramsAND2forms\paramsAND2forms\obj\Debug\paramsAND2forms.LoginForm.resources
+E:\NOSU\Лекции\ППО\paramsAND2forms\paramsAND2forms\obj\Debug\paramsAND2forms.Properties.Resources.resources
+E:\NOSU\Лекции\ППО\paramsAND2forms\paramsAND2forms\obj\Debug\paramsAND2forms.csproj.GenerateResource.cache
+E:\NOSU\Лекции\ППО\paramsAND2forms\paramsAND2forms\obj\Debug\paramsAND2forms.csproj.CoreCompileInputs.cache
+E:\NOSU\Лекции\ППО\paramsAND2forms\paramsAND2forms\obj\Debug\paramsAND2forms.exe
+E:\NOSU\Лекции\ППО\paramsAND2forms\paramsAND2forms\obj\Debug\paramsAND2forms.pdb
+E:\NOSU\Лекции\ППО\paramsAND2forms\paramsAND2forms\obj\Debug\paramsAND2forms.mainForm.resources
+E:\NOSU\Лекции\ППО\paramsAND2forms\paramsAND2forms\obj\Debug\paramsAND2forms.csprojAssemblyReference.cache
+E:\NOSU\Лекции\ППО\paramsAND2forms\paramsAND2forms\obj\Debug\paramsAND2forms.ScoreForm.resources
